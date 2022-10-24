@@ -1,6 +1,6 @@
 # Latihan-Python
 
-1. install Python / install Python & extension pada VSCODE.
+1. install Python / install Python & extension pada VSCODE (optional)
 
 2. Buka VSCODE, Lalu klik menu extension, Instal Python & Python Extension
 
@@ -26,7 +26,7 @@
 4. Mencetak nilai variabel a dan b
 5. Mencetak hasil penjumlahan a+b
 
-<img width="960" alt="Screenshot_24" src="https://user-images.githubusercontent.com/115516624/197456249-de9ca81c-e6e9-4bbc-bcdd-cb873b740958.png">
+![Screenshot_27](https://user-images.githubusercontent.com/115516624/197457104-471363cb-5d1a-4c54-9875-59d3fd12d538.png)
 
 # Latihan 3
 
