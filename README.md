@@ -31,10 +31,15 @@
 # Latihan 3
 
 1.Garis IDLE
-2.Membuat file baru dengan nama latihan3.py (pastikan lokasi file pada folder lab2py pada direktori kerja anda)
+
+2.Membuat file baru dengan nama latihan3.py (pastikan lokasi file pada folder lab2py pada direktori kerja anda
+
 3.Hasil penggabungan
+
 4.Hasil penjumlahan
+
 5.Bagi hasil
+
 6.Menggunakan format string
 
 <img width="960" alt="Screenshot_26" src="https://user-images.githubusercontent.com/115516624/197456496-f1fd6f5b-9268-4fbf-9827-682553f70c4d.png">
